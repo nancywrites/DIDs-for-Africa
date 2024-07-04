@@ -14,7 +14,7 @@ Imagine everyone has a special ID card that they control and keep safe. They dec
 Decentralized identities let you choose what data others can see and how it's used or sold. Your info is kept safe in a digital form that's hard to change, copy, or steal.
 
 
-## Why Do Decentralized Identities Matter in Africa
+## Why do decentralized identities matter in Africa
 Africa faces issues because many countries lack essential identity systems, causing problems with resource distribution and economic development. Using decentralized identities could solve these challenges.
 Here are reasons decentralized identities matter in Africa:
 
