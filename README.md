@@ -19,7 +19,7 @@ Africa faces issues because many countries lack essential identity systems, caus
 Here are reasons decentralized identities matter in Africa:
 
 ### Access to financial institutions and its benefits
-A big problem in Africa is that many people don't have bank accounts. About 57% of those in Sub-Saharan Africa can't use regular banks (WorldBank) because they don't have official proof they exist.
+In Africa many people don't have bank accounts. About 57% of those in Sub-Saharan Africa can't use regular banks (WorldBank) because they don't have official proof they exist.
 Fortunately, decentralized identities can offer a safe and reliable way for people to show who they are. This makes it simpler for them to open bank accounts, and get loans, and insurance, which helps them manage their money and contribute to the economy.
 
 ### Secures sensitive data
